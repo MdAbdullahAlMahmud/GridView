@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day12</string>
+
+    <string-array name="icon_name">
+        <item>Instragram</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Youtube</item>
+    </string-array>
+</resources>
